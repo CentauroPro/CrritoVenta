@@ -1,0 +1,50 @@
+{
+    "usuario": "nombre_usuario",
+    "productos": [
+      {
+        "id": 4,
+        "nombre": "Sudadera",
+        "descripcion": "Sudadera con capucha y bolsillos",
+        "precio": 28.99,
+        "color": "Gris",
+        "talla": "XL",
+        "cantidad": 1,
+        "imagen": "https://img.freepik.com/psd-gratis/jerzees-sudadera-capucha-maqueta-05_126278-98.jpg?w=740&t=st=1690820652~exp=1690821252~hmac=50c7dae9a7dc2957db7bfb4803be51edd71d7636c0bc6398e4a68822a54247e7"
+      },
+      {
+        "id": 5,
+        "nombre": "Falda",
+        "descripcion": "Falda plisada de cuero",
+        "precio": 39.99,
+        "color": "Negro",
+        "talla": "M",
+        "cantidad": 2,
+        "imagen": "https://as2.ftcdn.net/v2/jpg/00/94/13/95/1000_F_94139566_Ya89ETWAyp6ascuAU7P1G8MJ6Mj2R59p.jpg"
+      },
+      {
+        "id": 6,
+        "nombre": "Chaqueta",
+        "descripcion": "Chaqueta acolchada con cierre",
+        "precio": 55.99,
+        "color": "Azul Marino",
+        "talla": "S",
+        "cantidad": 1,
+        "imagen": "https://as1.ftcdn.net/v2/jpg/06/02/93/98/1000_F_602939828_MK7hJs2iCwCOFOFIFzI48HM8y5N5AJBU.jpg"
+      },
+      {
+        "id": 7,
+        "nombre": "Blusa",
+        "descripcion": "Blusa con estampado floral",
+        "precio": 24.99,
+        "color": "Blanco y Azul",
+        "talla": "L",
+        "cantidad": 3,
+        "imagen": "https://as1.ftcdn.net/v2/jpg/03/25/69/18/1000_F_325691846_OLfYqwHmEzJYPlZRVo0oAq3TaCvJwWWA.jpg"
+      }
+    ],
+    "subtotal": 267.93,
+    "descuento": 20.00,
+    "envio": 7.50,
+    "total": 255.43
+  }
+  

@@ -45,7 +45,7 @@ function MyTabs() {
                     headerTintColor: 'white',
 
                     tabBarIcon: () => (
-                      <Entypo name="text-document" size={24} color='#000000ff' />)}}/>
+                      <MaterialCommunityIcons name="shopping-search" size={24} color="black" />)}}/>
       <Tab.Screen name="CuentaTab" component={Cuenta}  options={{
                     tabBarLabel: 'Cuenta',
                     headerTitle: 'Cuenta',
